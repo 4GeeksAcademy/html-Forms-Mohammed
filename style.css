@@ -1,20 +1,7 @@
-form {
-    width: 50%;
-    margin: auto;
-  }
-  
-  div {
-    margin-bottom: 15px;
-  }
-  
-  label {
-    display: block;
-    margin-bottom: 5px;
-  }
-  
-  input {
-    width: 100%;
-    padding: 8px;
-    box-sizing: border-box;
-  }
-  
+body {
+	margin: 0;
+	background-color: white;
+}
+.card-header{
+  background: #c9ddff;
+}  
